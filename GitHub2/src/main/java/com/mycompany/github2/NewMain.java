@@ -6,19 +6,9 @@ public class NewMain {
 
     
     public static void main(String[] args) {
-        System.out.println("Hola.");
+       
         
-        System.out.println("asdkfljasdñlfakjsd");
-        
-        System.out.println("commit");
-        
-        System.out.println("commit");
-        
-        System.out.println("commit");
-        
-        System.out.println("commit1");
-        
-        System.out.println("commit1");
+        System.out.println("mensaje 1");
     }
     
     
