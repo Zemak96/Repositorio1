@@ -1,2 +1,2 @@
-# Repositorio1
+# PruebasClase
 Ejemplos de clase.
